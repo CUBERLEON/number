@@ -1,7 +1,7 @@
 # Number
 
 ## Description
-Implementation of big integer and some algorithms using it.
+Implementation of long arithmetics and algorithms using it.
 
 ## Features
 - GCD, Extended GCD, LCM, Mod pow, Mod inverse
